@@ -1,0 +1,55 @@
+{
+  "services": [{
+    "name": "Homes",
+    "image": "/assets/img/living_room.jpg",
+    "description": "Are you ready to finally build a new house? Welsh Hills Construction would love to be the company to build a home that suits your family’s needs. We have the ability to design your perfect house, and want to work with you to make sure your home will be everything that you expect it to be. We aren’t afraid to tackle hard work, and will go the extra mile to incorporate / reuse any old materials that you want to use. If you own land that has an old building on it that we can reuse materials, that’s great, but if not that’s no problem, we can get the material for you. We do not want to build a cookie cutter home, we want to build each home with its own uniqueness and give it special character to fit your tastes."
+  }, {
+    "name": "Cabins",
+    "image": "/assets/img/house.jpg",
+    "description": "Have enough land you want to build some cabins to rent out or have guests camp in? We can make small cabins feel like big spaces for guests, and make them as unique as you desire, and leaving your guests anxious to return."
+  }, {
+    "name": "Sheds",
+    "image": "/assets/img/shed.png",
+    "description": "Need some extra storage? We will build a one-of a kind garage or shed that you will be proud to look at out your window. Whether using all new materials or old, we can build the perfect space for you to store your garden tools, your wood shop materials, or whatever other toys you own. (The photo attached is a shed we built using all recycled material on the exterior.)"
+  }, {
+    "name": "Basements",
+    "image": "/assets/img/basement.jpg",
+    "description": "Ready to turn that basement into some unique living space, and put an end to boxes piling up? We would love to turn your basement into a great space to entertain, or install a bedroom or office to better suit your living habits.We will work with you to fulfill your wants and desires to make the end result exactly what you expected."
+  }, {
+    "name": "Outbuildings",
+    "image": "/assets/img/leanto.jpg",
+    "description": "Do you need a building to keep your firewood or animals out of the weather? We can work with you on drawing up a design for an outbuilding on your land to serve any purpose."
+  }, {
+    "name": "Furniture",
+    "image": "/assets/img/table.jpg",
+    "description": "Have a piece in mind that would complete a space in your home? We love to build simple and timeless pieces that cannot be purchased at your average furniture store. If you need or want something made for you, we would be more than happy to do so, as we have a great deal of talent in our company."
+  }, {
+    "name": "Mill",
+    "image": "/assets/img/saw_mill.jpg",
+    "description": "We own an American Bandsaw, in which we can take a tree from your land and make our own siding, trim, furniture, or whatever you wish to use it for. There is nothing more unique than using a resource from your own property and give it new purpose."
+  }],
+  "projectScopes": [
+    "New Home Construction",
+    "Garages",
+    "Guest / Carriage Houses",
+    "Framing",
+    "Cabins",
+    "Porches",
+    "Home additions",
+    "Basements",
+    "Floor installation",
+    "Kitchens",
+    "Bathrooms",
+    "Trim work",
+    "Exterior siding",
+    "Custom rustic furniture",
+    "Outbuildings",
+    "Tiling",
+    "Wood burning stove inserts",
+    "Log Milling / Cutting",
+    "Rebuilding old structures",
+    "Fencing",
+    "Cabinet installation",
+    "Decks"
+  ]
+}
